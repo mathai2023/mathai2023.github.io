@@ -1,0 +1,6 @@
+<div
+  class="col-md-6 offset-md-2" 
+  id="{{ include.p[0] }}"
+>
+  {{ include.p[1].bio }}
+</div>

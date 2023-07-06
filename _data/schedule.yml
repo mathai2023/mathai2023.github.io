@@ -1,0 +1,97 @@
+opening:
+  event: "Introduction and Opening Remarks"
+  start: "08:55-09:00"
+  type: "General"
+
+ckaliszyk:
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
+  start: "09:00-09:30"
+  type: "Invited"
+
+bneyshabur:
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
+  start: "09:30-10:00"
+  type: "Invited"
+
+jsteinhardt:
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
+  start: "10:00-10:30"
+  type: "Invited"
+
+poster1:
+  event: "Poster Session"
+  title: ""
+  author: ""
+  start: "10:30-12:00"
+  type: "General"
+
+break1:
+  event: "Lunch Break"
+  title: ""
+  start: "12:00-13:00"
+  type: "General"
+
+contrib1:
+  title: "<PLACEHOLDER>"
+  name: "<PLACEHOLDER>"
+  #url: "https://hattiezhou.com/"
+  #affiliation: "Université de Montréal"
+  start: "13:00-13:20"
+  type: "Contributed"
+
+contrib2:
+  title: "<PLACEHOLDER>"
+  name: "<PLACEHOLDER>"
+  #url: "http://www.kushman.org/"
+  #affiliation: "DeepMind"
+  start: "13:20-13:40"
+  type: "Contributed"
+
+contrib3:
+  title: "<PLACEHOLDER>"
+  name: "<PLACEHOLDER>"
+  #url: "https://www.linkedin.com/in/zhangir-azerbayev-314ab21b8/"
+  #affiliation: "Yale University"
+  start: "13:40-14:00"
+  type: "Contributed"
+
+pclark:
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
+  start: "14:00-14:30"
+  type: "Invited"
+
+break2:
+  event: "Coffee Break"
+  title: ""
+  start: "14:30-15:00"
+  type: "General"
+
+fcharton:
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
+  start: "15:00-15:30"
+  type: "Invited"
+
+ngoodman:
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
+  start: "15:30-16:00"
+  type: "Invited"
+
+
+panel1:
+  event: "Panel Discussion"
+  title: "MATH-AI: AI and Mathematical Reasoning"
+  # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
+  speakers: ["<PLACEHOLDER>", "<PLACEHOLDER>", "<PLACEHOLDER>", "<PLACEHOLDER>", "<PLACEHOLDER>"]
+  start: "16:00-16:55"
+  type: "Panel"  
+
+closing:
+  event: "Closing Remarks"
+  start: "16:55-17:00"
+  type: "General"

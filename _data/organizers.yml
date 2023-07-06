@@ -1,0 +1,35 @@
+zliang:
+  name: "Zhenwen Liang"
+  url: "http://zhenwen-nlp.github.io/"
+  affiliation: "Notre Dame"
+  img: "zliang.jpg"
+ajiang:
+  name: "Albert Qiaochu Jiang"
+  url: "https://albertqjiang.github.io/"
+  affiliation: "Cambridge"
+  img: "ajiang.jpg"
+kcollins:
+  name: "Katie Collins"
+  url: "https://collinskatie.github.io/"
+  affiliation: "Cambridge"
+  img: "kcollins.png"
+plu:
+  name: "Pan Lu"
+  url: "https://lupantech.github.io/"
+  affiliation: "UCLA"
+  img: "panlu.jpg"
+kyang:
+  name: "Kaiyu Yang"
+  url: "https://yangky11.github.io/"
+  affiliation: "Caltech"
+  img: "kyang.jpg"
+swelleck:
+  name: "Sean Welleck"
+  url: "https://wellecks.com/"
+  affiliation: "UW, AI2"
+  img: "swelleck.png"
+jmcclelland:
+  name: "Jay McClelland"
+  url: "https://stanford.edu/~jlmcc/"
+  affiliation: "Stanford"
+  img: "jmcclelland.png"

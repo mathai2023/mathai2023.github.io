@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+
+  <script>
+    var shiftWindow = function() { scrollBy(0, -50) };
+    window.addEventListener("hashchange", shiftWindow);
+    function load() { if (window.location.hash) shiftWindow(); }
+  </script>
+  
+  <title>Speakers &amp; Panelists</title>
+
+  <meta name="author" content="" />
+
+  
+
+  <!--  -->
+
+  <link rel="alternate" type="application/rss+xml" title="2nd MATH-AI Workshop at NeurIPS'22 - Math-AI" href="/feed.xml" />
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+  <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Speakers &amp; Panelists" />
+  
+
+  
+  <meta property="og:description" content="# Speakers &amp; Panelists
+
+  {% for p in site.data.speakers %}
+  {% if forloop.index
+    
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    
+    
+    {% capture id %}{{ p[1] }}{% endcapture %}
+    {% include profile_detail.html p=p %}
+    
+  
+  
+  {% endif %}
+  {% endfor %}
+
+">
+  
+
+  <meta name="image" property="og:image" content="https://mathai2022.github.io/img/logo/1600_1200.png">
+  
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://localhost:4000/speakers/" />
+  <link rel="canonical" href="http://localhost:4000/speakers/" />
+  
+
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="Speakers &amp; Panelists" />
+  
+
+  
+  <meta name="twitter:description" content="# Speakers &amp; Panelists
+
+  {% for p in site.data.speakers %}
+  {% if forloop.index
+    
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    
+    
+    {% capture id %}{{ p[1] }}{% endcapture %}
+    {% include profile_detail.html p=p %}
+    
+  
+  
+  {% endif %}
+  {% endfor %}
+
+">
+  
+
+  
+
+  
+
+  
+
+  <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f3db91ed400420012d0a68e&product=inline-share-buttons" async="async"></script>
+</head>
+
+
+  <body>
+
+    
+
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button
+        type="button"
+        class="navbar-toggle"
+        data-toggle="collapse"
+        data-target="#main-navbar"
+      >
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="http://localhost:4000/">2nd MATH-AI Workshop at NeurIPS'22</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+         
+        <li>
+          
+
+
+
+
+
+
+<a href="/cfp">Call</a>
+
+        </li>
+          
+        <li>
+          
+
+
+
+
+
+
+<a href="/speakers">Speakers&Panelists</a>
+
+        </li>
+          
+        <li>
+          
+
+
+
+
+
+
+<a href="/papers">Papers</a>
+
+        </li>
+          
+        <li>
+          
+
+
+
+
+
+
+<a href="/schedule">Schedule</a>
+
+        </li>
+          
+        <li>
+          
+
+
+
+
+
+
+<a href="https://mathai2022.github.io/">About</a>
+
+        </li>
+         
+      </ul>
+    </div>
+
+    
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <!-- <div class="row"> -->
+      <!-- <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"> -->
+        <div class="page-heading">
+          <h1>Speakers &amp; Panelists</h1>
+		  
+		  
+		  
+        </div>
+      <!-- </div> -->
+    <!-- </div> -->
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class="container" role="main">
+  <h1 id="speakers--panelists">Speakers &amp; Panelists</h1>
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="fcharton" style="height: 300px">
+  <img src="/img/fcharton.jpg" alt="François Charton" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://scholar.google.com/citations?user=1tMnd-4AAAAJ&amp;hl=en">François Charton</a>
+  <br />
+  Meta AI
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="fcharton">
+  François Charton is a Research Engineer at Meta AI Research. He studies AI for mathematics with a focus on symbolic mathematics, which includes learning advanced computations (e.g. integration, differential systems, linear algebra) and symbolic regression. Previously, he was a visiting entrepreneur at Facebook AI and CEO/Founder of Carthage.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="pclark" style="height: 300px">
+  <img src="/img/pclark.jpg" alt="Peter Clark" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://allenai.org/team/peterc">Peter Clark</a>
+  <br />
+  AI2
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="pclark">
+  Peter Clark is the Senior Research Manager for AI2. His work focuses on natural language processing, machine reasoning, large knowledge bases, and the interplay between these three areas. He has received several awards including a AAAI Best Paper (1997), Boeing Associate Technical Fellowship (2004), and AAAI Senior Member (2014). He is leading the Aristo team at AI2, and recently, he has been working on research areas including neuro-symbolic reasoning and universal mathematical reasoners.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="ngoodman" style="height: 300px">
+  <img src="/img/noah.jpg" alt="Noah D. Goodman" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://cocolab.stanford.edu/ndg">Noah D. Goodman</a>
+  <br />
+  Stanford University
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="ngoodman">
+  Noah D. Goodman is Assistant Professor of Psychology, Linguistics (by courtesy), and Computer Science (by courtesy) at Stanford University. He received his Ph.D. in mathematics from the University of Texas at Austin in 2003. In 2005 he entered cognitive science, working as Postdoc and Research Scientist at MIT. In 2010 he moved to Stanford where he runs the Computation and Cognition Lab. He studies the computational basis of human thought, merging behavioral experiments with formal methods from statistics and logic. Specific projects vary from concept learning and language understanding to inference algorithms for probabilistic programming languages.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="ckaliszyk" style="height: 300px">
+  <img src="/img/ckaliszyk.jpg" alt="Cezary Kaliszyk" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="http://cl-informatik.uibk.ac.at/cek/">Cezary Kaliszyk</a>
+  <br />
+  University of Innsbruck
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="ckaliszyk">
+  Cezary Kaliszyk is an Assistant Professor at the University of Innsbruck, where he leads the Computational Logic Group. He studies machine learning for reasoning and formal methods. He co-organized the 2021 Conference on Artificial Intelligence and Theorem Proving (AITP) and co-chaired the 2021 Conference on Interactive Theorem Proving (ITP). Recent projects include developing uniform learning-reasoning systems that support multiple logical foundations, machine learning for automated theorem proving, and proof automation.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="bneyshabur" style="height: 300px">
+  <img src="/img/behnam.jpg" alt="Behnam Neyshabur" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://www.neyshabur.net/">Behnam Neyshabur</a>
+  <br />
+  Google
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="bneyshabur">
+  Behnam Neyshabur is a senior staff research scientist at Google. Before that, he was a postdoctoral researcher at New York University and a member of Theoretical Machine Learning program at Institute for Advanced Study (IAS) in Princeton. In summer 2017, he received a PhD in computer science at TTI-Chicago. His current primary interest is reasoning and algorithmic capabilities of giant language models, including permutation invariance, out-of-distribution generalization, and mathematical algorithms.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="tringer" style="height: 300px">
+  <img src="/img/tringer.jpeg" alt="Talia Ringer" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://dependenttyp.es/">Talia Ringer</a>
+  <br />
+  UIUC
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="tringer">
+  Talia Ringer is an Assistant Professor with the PL/FM/SE group at Illinois. Prior to Illinois, Dr. Talia earned a PhD in 2021 from the University of Washington, working with the PLSE group. Dr. Talia likes to build proof engineering technologies to make the world a reality. In doing so, Dr. Talia loves to use the whole toolbox --- everything from dependent type theory to program transformations to neural proof synthesis --- all in service of real humans.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="dselsam" style="height: 300px">
+  <img src="/img/dselsam.jpg" alt="Daniel Selsam" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://dselsam.github.io/">Daniel Selsam</a>
+  <br />
+  OpenAI
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="dselsam">
+  Daniel Selsam is a researcher at OpenAI. He founded and leads the IMO Grand Challenge, with the goal of building an AI that can win a gold medal in the International Mathematical Olympiad competition. His research includes machine learning for automated reasoning, e.g. neural SAT solving, olympiad geometry problems, and programming languages, including oracle-guided decision programming and optimizations for the Lean theorem prover.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="jsteinhardt" style="height: 300px">
+  <img src="/img/jsteinhardt.png" alt="Jacob Steinhardt" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://jsteinhardt.stat.berkeley.edu/">Jacob Steinhardt</a>
+  <br />
+  UC Berkeley
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="jsteinhardt">
+  Jacob Steinhardt is an Assistant Professor in Department of Statistics at UC Berkeley. He also consults part-time for Open Philanthropy. In the past he has worked at OpenAI and been a coach for the USA Computing Olympiad and an instructor at SPARC.  His research goal is to make the conceptual advances necessary for machine learning systems to be reliable and aligned with human values. For example, he is working on designing ML systems that conform to interpretable abstractions and constructing mathematical benchmarks that measure the problem-solving ability of machine learning models.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+</div>
+
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <!--<h4>Sponsor:</h4>
+      <a href='https://www.amazon.science/'><img src="http://localhost:4000/2020/img/amazon_science.png" height="140px"></a>-->
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"><li><a href="mailto:mathai.neurips2022@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Email me</span>
+              </a>
+            </li></ul>
+      <p class="copyright text-muted">
+      
+      &nbsp;&bull;&nbsp;
+      2022
+
+      
+      &nbsp;&bull;&nbsp;
+      <a href="http://localhost:4000">mathai2022.github.io</a>
+      
+
+      
+      </p>
+          <!-- Please don't remove this, keep my open source work credited :) -->
+    <p class="theme-by text-muted">
+      Theme by
+      <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+  
+  </body>
+</html>
