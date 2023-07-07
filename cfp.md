@@ -29,12 +29,12 @@ To address this question, we aim to bring together a diverse group of scholars f
 ### Important Dates 
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
-**Paper submission opens:** July 18, 2022 (12:00am Pacific Time) <br>
+**Paper submission opens:** July 18, 2023 (12:00am Pacific Time) <br>
 <!-- **Deadline for paper submission: Oct 06, 2021 (11:59pm Pacific Time, one day after the ICLR 2022 submission deadline.)** <br> -->
-**Deadline for paper submission**: September 29, 2022 (11:59pm Pacific Time) <br>
-**Notification:** October 27, 2022 (11:59pm Pacific Time) <br>
-**Camera Ready:** November 15, 2022 (11:59pm Pacific Time) <br>
-**Workshop:** December 15/16, 2022
+**Deadline for paper submission**: September 29, 2023 (11:59pm Pacific Time) <br>
+**Notification:** October 27, 2023 (11:59pm Pacific Time) <br>
+**Camera Ready:** November 15, 2023 (11:59pm Pacific Time) <br>
+**Workshop:** December 15/16, 2023
 
 ### Submission Requirements
 
