@@ -33,6 +33,13 @@ hsedghi:
     img: "hsedghi.webp"
     bio: "Hanie is a Senior Research Scientist at Google Research (Brain Team) where she leads the DeepPhenomena team. Her research interest is understanding deep learning models to push their boundaries; not just for (out-of-distribution) generalization, but also the broader sense of scientific reasoning capabilities."
 
+psmolensky:
+    name: "Paul Smolensky"
+    url: "https://cogsci.jhu.edu/directory/paul-smolensky/"
+    affiliation: "JHU, Microsoft"
+    img: "psmolensky.jpg"
+    bio: "Paul Smolensky is a partner researcher in the Deep Learning Group and part-year Krieger-Eisenhower Professor of Cognitive Science at Johns Hopkins University. His research focuses on integrating symbolic and neural network computation for modeling reasoning and, especially, grammar in the human mind/brain."
+
 asolarlezama:
     name: "Armando Solar-Lezama"
     url: "https://www.csail.mit.edu/person/armando-solar-lezama"
