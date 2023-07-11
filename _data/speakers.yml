@@ -26,13 +26,6 @@ klauter:
     img: "klauter.jpg"
     bio: "Kristin Estella Lauter is a renowned American mathematician and cryptographer, currently she is the West Coast Head of Research Science for Facebook AI Research (FAIR). She was a Partner Research Manager at Microsoft Research for 22 years. Before that, She worked as an assistant Professor of Mathematics at the University of Michigan."
 
-hsedghi:
-    name: "Hanie Sedghi"
-    url: "https://haniesedghi.com/"
-    affiliation: "Google"
-    img: "hsedghi.webp"
-    bio: "Hanie is a Senior Research Scientist at Google Research (Brain Team) where she leads the DeepPhenomena team. Her research interest is understanding deep learning models to push their boundaries; not just for (out-of-distribution) generalization, but also the broader sense of scientific reasoning capabilities."
-
 psmolensky:
     name: "Paul Smolensky"
     url: "https://cogsci.jhu.edu/directory/paul-smolensky/"
