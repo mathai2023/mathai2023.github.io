@@ -116,7 +116,7 @@ To address this question, we aim to bring together a diverse group of scholars f
 </div>
 <hr>
 
-# Program Committee
+<!-- # Program Committee
 <div class="container">
   <ul class="list-group list-group-flush">
     {% for p in site.data.pc.people %}
@@ -124,7 +124,7 @@ To address this question, we aim to bring together a diverse group of scholars f
     {% endfor %}
   </ul>
 </div>
-<hr>
+<hr> -->
 
 # Related Venues
 
