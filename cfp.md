@@ -29,11 +29,11 @@ To address this question, we aim to bring together a diverse group of scholars f
 ### Important Dates 
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
-**Paper submission opens:** July 18, 2023 (12:00am Pacific Time) <br>
+**Paper submission opens:** Aug 1, 2023 <br>
 <!-- **Deadline for paper submission: Oct 06, 2021 (11:59pm Pacific Time, one day after the ICLR 2022 submission deadline.)** <br> -->
-**Deadline for paper submission**: September 29, 2023 (11:59pm Pacific Time) <br>
-**Notification:** October 27, 2023 (11:59pm Pacific Time) <br>
-**Camera Ready:** November 15, 2023 (11:59pm Pacific Time) <br>
+**Deadline for paper submission**: September 29, 2023  <br>
+**Notification:** October 27, 2023 <br>
+**Camera Ready:** November 15, 2023 <br>
 **Workshop:** December 15/16, 2023
 
 ### Submission Requirements
@@ -44,6 +44,6 @@ All submissions must be formatted with LaTeX using the [NeurIPS paper format (Ad
 
 All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be published on the MATH-AI 2022 homepage, but are to be considered non-archival.
 
-Submission Link: [Will be available soon.](https://mathai-2023.github.io/) 
+Submission Link: [https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/MATH-AI](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/MATH-AI) 
 
 Please email any enquiries to [mathai.neurips2023@gmail.com](mailto:mathai.neurips2023@gmail.com).
