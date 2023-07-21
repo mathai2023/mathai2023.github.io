@@ -42,7 +42,7 @@ Submissions to MATH-AI 2023 are limited to 4 pages of content, but may contain a
 
 All submissions must be formatted with LaTeX using the [NeurIPS paper format (Adapted)](img/neurips_2023.zip).
 
-All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be published on the MATH-AI 2022 homepage, but are to be considered non-archival.
+All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be displayed on the MATH-AI 2023 homepage, but are to be considered non-archival.
 
 Submission Link: [https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/MATH-AI](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/MATH-AI) 
 
