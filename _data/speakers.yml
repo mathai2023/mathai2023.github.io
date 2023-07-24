@@ -61,5 +61,11 @@ dzhou:
     img: "dzhou.jpeg"
     bio: "Denny is the founder and lead of the Reasoning Team in Google Brain, aiming to revolutionize machine learning by introducing reasoning to address challenges such as learning from few examples or instructions only, enhancing interpretability, and handling out-of-distribution/domain generalization."
 
+rtalia:
+    name: "Talia Ringer"
+    url: "https://dependenttyp.es/"
+    affiliation: "UIUC"
+    img: "rtalia.png"
+    bio: "Talia Ringer is an Assistant Professor with the PL/FM/SE group at Illinois. Prior to Illinois, Dr. Talia earned a PhD in 2021 from the University of Washington, working with the PLSE group. Dr. Talia likes to build proof engineering technologies to make the world a reality. In doing so, Dr. Talia loves to use the whole toolbox --- everything from dependent type theory to program transformations to neural proof synthesis --- all in service of real humans."
 
 
