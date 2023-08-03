@@ -24,6 +24,10 @@ use-site-title: true
 
 <div class="container" style="margin-bottom: 10px;"></div>
 
+# Reviewer Nomination
+
+If you'd like to become a reviewer for the workshop, or recommend someone, [please use this form](https://forms.gle/bjDLpGaYawHzfA4w6).
+
 # Overview
 
 Mathematical reasoning is a fundamental aspect of human cognition that has been studied by scholars ranging from philosophers to cognitive scientists and neuroscientists. Mathematical reasoning involves analyzing complex information, identifying patterns and relationships, and drawing logical conclusions from evidence. It is central to many applications in science, engineering, finance, and everyday contexts.
