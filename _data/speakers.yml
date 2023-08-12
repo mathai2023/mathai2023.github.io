@@ -68,4 +68,9 @@ rtalia:
     img: "rtalia.png"
     bio: "Talia Ringer is an Assistant Professor with the PL/FM/SE group at Illinois. Prior to Illinois, Dr. Talia earned a PhD in 2021 from the University of Washington, working with the PLSE group. Dr. Talia likes to build proof engineering technologies to make the world a reality. In doing so, Dr. Talia loves to use the whole toolbox --- everything from dependent type theory to program transformations to neural proof synthesis --- all in service of real humans."
 
-
+ngoodman:
+    name: "Noah D. Goodman"
+    url: "https://cocolab.stanford.edu/ndg"
+    affiliation: "Stanford University"
+    img: "noah.jpg"
+    bio: "Noah D. Goodman is Assistant Professor of Psychology, Linguistics (by courtesy), and Computer Science (by courtesy) at Stanford University. He received his Ph.D. in mathematics from the University of Texas at Austin in 2003. In 2005 he entered cognitive science, working as Postdoc and Research Scientist at MIT. In 2010 he moved to Stanford where he runs the Computation and Cognition Lab. He studies the computational basis of human thought, merging behavioral experiments with formal methods from statistics and logic. Specific projects vary from concept learning and language understanding to inference algorithms for probabilistic programming languages."
