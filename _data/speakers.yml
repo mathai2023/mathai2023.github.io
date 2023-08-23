@@ -5,10 +5,17 @@ fcharton:
     img: "gbroeck.jpg"
     bio: "Guy is an Associate Professor and Samueli Fellow at UCLA, where he directs the Statistical and Relational Artificial Intelligence (StarAI) lab. His research interests are in machine learning (e.g. probabilistic programming), knowledge representation and reasoning (e.g., probabilistic inference), and artificial intelligence in general."
 
+ngoodman:
+    name: "Noah D. Goodman"
+    url: "https://cocolab.stanford.edu/ndg"
+    affiliation: "Stanford University"
+    img: "noah.jpg"
+    bio: "Noah D. Goodman is Assistant Professor of Psychology, Linguistics (by courtesy), and Computer Science (by courtesy) at Stanford University. He received his Ph.D. in mathematics from the University of Texas at Austin in 2003. In 2005 he entered cognitive science, working as Postdoc and Research Scientist at MIT. In 2010 he moved to Stanford where he runs the Computation and Cognition Lab. He studies the computational basis of human thought, merging behavioral experiments with formal methods from statistics and logic. Specific projects vary from concept learning and language understanding to inference algorithms for probabilistic programming languages."
+
 tgowers:
     name: "Timothy Gowers"
     url: "https://www.dpmms.cam.ac.uk/~wtg10/"
-    affiliation: "Collège de France, University of Cambridge"
+    affiliation: "University of Cambridge"
     img: "tgowers.png"
     bio: "Timothy Gowers is a prominent British mathematician known primarily for his research in functional analysis and combinatorics. He was awarded the Fields Medal in 1998 for his contributions to the theory of Banach spaces."
 
@@ -25,6 +32,13 @@ klauter:
     affiliation: "FAIR Labs North America, Meta"
     img: "klauter.jpg"
     bio: "Kristin Estella Lauter is a renowned American mathematician and cryptographer, currently she is the West Coast Head of Research Science for Facebook AI Research (FAIR). She was a Partner Research Manager at Microsoft Research for 22 years. Before that, She worked as an assistant Professor of Mathematics at the University of Michigan."
+
+rtalia:
+    name: "Talia Ringer"
+    url: "https://dependenttyp.es/"
+    affiliation: "UIUC"
+    img: "rtalia.png"
+    bio: "Talia Ringer is an Assistant Professor with the PL/FM/SE group at Illinois. Prior to Illinois, Dr. Talia earned a PhD in 2021 from the University of Washington, working with the PLSE group. Dr. Talia likes to build proof engineering technologies to make the world a reality. In doing so, Dr. Talia loves to use the whole toolbox --- everything from dependent type theory to program transformations to neural proof synthesis --- all in service of real humans."
 
 psmolensky:
     name: "Paul Smolensky"
@@ -43,7 +57,7 @@ asolarlezama:
 ywu:
     name: "Yuhuai (Tony) Wu"
     url: "http://www.cs.toronto.edu/~ywu/"
-    affiliation: "Stanford"
+    affiliation: "xAI"
     img: "ywu.png"
     bio: "Tony was a senior research scientist at Google and a postdoctoral scholar at Stanford, mentored by Percy Liang and Jay McClelland. He was a Google Ph.D. Fellow in machine learning and a co-creator of AlphaStar. He is currently focusing on building machines that can reason and do math in a way as abstract and creative as humans."
 
@@ -57,20 +71,6 @@ exing:
 dzhou:
     name: "Denny Zhou"
     url: "https://dennyzhou.github.io/"
-    affiliation: "Google Brain"
+    affiliation: "Google DeepMind"
     img: "dzhou.jpeg"
     bio: "Denny is the founder and lead of the Reasoning Team in Google Brain, aiming to revolutionize machine learning by introducing reasoning to address challenges such as learning from few examples or instructions only, enhancing interpretability, and handling out-of-distribution/domain generalization."
-
-rtalia:
-    name: "Talia Ringer"
-    url: "https://dependenttyp.es/"
-    affiliation: "UIUC"
-    img: "rtalia.png"
-    bio: "Talia Ringer is an Assistant Professor with the PL/FM/SE group at Illinois. Prior to Illinois, Dr. Talia earned a PhD in 2021 from the University of Washington, working with the PLSE group. Dr. Talia likes to build proof engineering technologies to make the world a reality. In doing so, Dr. Talia loves to use the whole toolbox --- everything from dependent type theory to program transformations to neural proof synthesis --- all in service of real humans."
-
-ngoodman:
-    name: "Noah D. Goodman"
-    url: "https://cocolab.stanford.edu/ndg"
-    affiliation: "Stanford University"
-    img: "noah.jpg"
-    bio: "Noah D. Goodman is Assistant Professor of Psychology, Linguistics (by courtesy), and Computer Science (by courtesy) at Stanford University. He received his Ph.D. in mathematics from the University of Texas at Austin in 2003. In 2005 he entered cognitive science, working as Postdoc and Research Scientist at MIT. In 2010 he moved to Stanford where he runs the Computation and Cognition Lab. He studies the computational basis of human thought, merging behavioral experiments with formal methods from statistics and logic. Specific projects vary from concept learning and language understanding to inference algorithms for probabilistic programming languages."

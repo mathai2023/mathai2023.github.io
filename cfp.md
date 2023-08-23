@@ -34,7 +34,7 @@ To address this question, we aim to bring together a diverse group of scholars f
 **Deadline for paper submission**: September 29, 2023  <br>
 **Notification:** October 27, 2023 <br>
 **Camera Ready:** November 15, 2023 <br>
-**Workshop:** December 15/16, 2023
+**Workshop:** December 15, 2023
 
 ### Submission Requirements
 

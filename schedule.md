@@ -11,7 +11,7 @@ use-site-title: true
 
 # Schedule
 
-#### Saturday, December 15/16, 2022
+#### Saturday, December 15, 2022
 #### All times are in Central Standard Time (CST) ([Check local time](https://www.google.com/search?q=time+for+local+new+orleans))
 
 
