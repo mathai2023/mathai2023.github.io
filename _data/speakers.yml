@@ -74,3 +74,10 @@ dzhou:
     affiliation: "Google DeepMind"
     img: "dzhou.jpeg"
     bio: "Denny is the founder and lead of the Reasoning Team in Google Brain, aiming to revolutionize machine learning by introducing reasoning to address challenges such as learning from few examples or instructions only, enhancing interpretability, and handling out-of-distribution/domain generalization."
+
+mjamnik:
+    name: "Mateja Jamnik"
+    url: "https://www.cl.cam.ac.uk/~mj201/index.html"
+    affiliation: "University of Cambridge"
+    img: "mjamnik.jpg"
+    bio: "Mateja is a full Professor of Artificial Intelligence in the Department of Computer Science and Technology (Computer Laboratory) at the University of Cambridge, UK. She is interested in human intuitive reasoning and wants to make computers think intuitively too."
