@@ -46,4 +46,8 @@ All accepted papers will be presented in an in-person poster session, and some w
 
 Submission Link: [https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/MATH-AI](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/MATH-AI) 
 
+### Camera-ready Requirements
+
+The final version of all accepted papers will be given one additional page of content (up to 5 pages) so that reviewers’ comments can be taken into account.
+
 Please email any enquiries to [mathai.neurips2023@gmail.com](mailto:mathai.neurips2023@gmail.com).
