@@ -5,6 +5,14 @@ fcharton:
     img: "gbroeck.jpg"
     bio: "Guy is an Associate Professor and Samueli Fellow at UCLA, where he directs the Statistical and Relational Artificial Intelligence (StarAI) lab. His research interests are in machine learning (e.g. probabilistic programming), knowledge representation and reasoning (e.g., probabilistic inference), and artificial intelligence in general."
 
+xchen:
+    name: "Xinyun Chen"
+    url: "https://jungyhuk.github.io/"
+    affiliation: "Google DeepMind"
+    img: "xinyun.jpg"
+    bio: "Xinyun Chen is a senior research scientist at Google DeepMind. Her research interests are large language models, code generation, and AI security. She obtained her Ph.D. degree in Computer Science from UC Berkeley in 2022, and her B.S. degree in Computer Science from ACM Honored Class, Shanghai Jiao Tong University. She also spent time in Meta AI Research and National Institute of Informatics."
+
+
 ngoodman:
     name: "Noah D. Goodman"
     url: "https://cocolab.stanford.edu/ndg"
