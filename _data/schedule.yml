@@ -3,64 +3,73 @@ opening:
   start: "08:55-09:00"
   type: "General"
 
-ckaliszyk:
-  event: "<PLACEHOLDER>"
-  title: "<PLACEHOLDER>"
+klauter:
+  event: "klauter"
+  title: "AI4Crypto"
   start: "09:00-09:30"
   type: "Invited"
 
-bneyshabur:
-  event: "<PLACEHOLDER>"
-  title: "<PLACEHOLDER>"
+mjohansson:
+  event: "mjohansson"
+  title: "Exploring Mathematical Conjecturing – From Heuristic Search to Large Language Models  "
   start: "09:30-10:00"
   type: "Invited"
 
-jsteinhardt:
-  event: "<PLACEHOLDER>"
-  title: "<PLACEHOLDER>"
+ngoodman:
+  event: "ngoodman"
+  title: "Axioms (and curiosity and attention) are all you need"
   start: "10:00-10:30"
   type: "Invited"
 
-poster1:
-  event: "Poster Session"
+Break1:
+  event: "Break"
   title: ""
   author: ""
-  start: "10:30-12:00"
+  start: "10:30-11:00"
   type: "General"
 
-break1:
-  event: "Lunch Break"
+panel1:
+  event: "Panel Discussion"
+  title: "MATH-AI 2023"
+  # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
+  speakers: ["tgowers", "rtalia", "asolarlezama", "ywu", "mjamnik"]
+  start: "11:00-12:00"
+  type: "Panel" 
+
+Break2:
+  event: "Break"
   title: ""
+  author: ""
   start: "12:00-13:00"
   type: "General"
 
 contrib1:
-  title: "<PLACEHOLDER>"
-  name: "<PLACEHOLDER>"
+  title: "Oral Paper Presentation"
+  name: "Oral Paper Authors"
   #url: "https://hattiezhou.com/"
   #affiliation: "Université de Montréal"
-  start: "13:00-13:20"
+  start: "13:00-14:00"
   type: "Contributed"
 
-contrib2:
-  title: "<PLACEHOLDER>"
-  name: "<PLACEHOLDER>"
-  #url: "http://www.kushman.org/"
-  #affiliation: "DeepMind"
-  start: "13:20-13:40"
-  type: "Contributed"
+# contrib2:
+#   title: "<PLACEHOLDER>"
+#   name: "<PLACEHOLDER>"
+#   #url: "http://www.kushman.org/"
+#   #affiliation: "DeepMind"
+#   start: "13:20-13:40"
+#   type: "Contributed"
 
-contrib3:
-  title: "<PLACEHOLDER>"
-  name: "<PLACEHOLDER>"
-  #url: "https://www.linkedin.com/in/zhangir-azerbayev-314ab21b8/"
-  #affiliation: "Yale University"
-  start: "13:40-14:00"
-  type: "Contributed"
+# contrib3:
+#   title: "<PLACEHOLDER>"
+#   name: "<PLACEHOLDER>"
+#   #url: "https://www.linkedin.com/in/zhangir-azerbayev-314ab21b8/"
+#   #affiliation: "Yale University"
+#   start: "13:40-14:00"
+#   type: "Contributed"
 
-pclark:
-  event: "<PLACEHOLDER>"
-  title: "<PLACEHOLDER>"
+fcharton:
+  event: "fcharton"
+  title: "Invited Talk - TBD"
   start: "14:00-14:30"
   type: "Invited"
 
@@ -70,28 +79,22 @@ break2:
   start: "14:30-15:00"
   type: "General"
 
-fcharton:
-  event: "<PLACEHOLDER>"
-  title: "<PLACEHOLDER>"
-  start: "15:00-15:30"
-  type: "Invited"
-
-ngoodman:
-  event: "<PLACEHOLDER>"
-  title: "<PLACEHOLDER>"
-  start: "15:30-16:00"
-  type: "Invited"
-
-
-panel1:
-  event: "Panel Discussion"
-  title: "MATH-AI: AI and Mathematical Reasoning"
-  # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
-  speakers: ["<PLACEHOLDER>", "<PLACEHOLDER>", "<PLACEHOLDER>", "<PLACEHOLDER>", "<PLACEHOLDER>"]
-  start: "16:00-16:55"
-  type: "Panel"  
-
-closing:
-  event: "Closing Remarks"
-  start: "16:55-17:00"
+poster1:
+  event: "Poster Session"
+  title: ""
+  author: ""
+  start: "15:00-16:00"
   type: "General"
+
+xchen:
+  event: "xchen"
+  title: "Analogical Reasoning with Large Language Models"
+  start: "16:00-16:30"
+  type: "Invited"
+
+psmolensky:
+  event: "psmolensky"
+  title: "Invited Talk - TBD"
+  start: "16:30-17:00"
+  type: "Invited"
+
