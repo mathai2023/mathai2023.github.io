@@ -11,11 +11,11 @@ use-site-title: true
 
 # Schedule
 
-#### Saturday, December 15, 2022
+#### Friday, December 15, 2023
 #### All times are in Central Standard Time (CST) ([Check local time](https://www.google.com/search?q=time+for+local+new+orleans))
 
 
-#### Location: Room XXX, New Orleans Convention Center ([Map](https://goo.gl/maps/8WXJ8h4Svng793Cc8))
+#### Location: Room 217-219, New Orleans Convention Center ([Map](https://goo.gl/maps/8WXJ8h4Svng793Cc8))
 #### Live video stream: [Link](https://mathai-2023.github.io/)
 
 
