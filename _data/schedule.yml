@@ -94,7 +94,7 @@ xchen:
 
 psmolensky:
   event: "psmolensky"
-  title: "Invited Talk - TBD"
+  title: "Mechanisms of Symbol Processing for In-Context Learning in Transformers"
   start: "16:30-17:00"
   type: "Invited"
 
