@@ -69,7 +69,7 @@ contrib1:
 
 fcharton:
   event: "fcharton"
-  title: "Invited Talk - TBD"
+  title: "AI can learn from data. But can it learn to reason?"
   start: "14:00-14:30"
   type: "Invited"
 
