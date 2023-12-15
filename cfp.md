@@ -6,7 +6,7 @@ use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <!-- (NeurIPS 2022 Workshop: <a href="https://neurips.cc/Conferences/2022" target="_blank">Website</a>) <br> -->
-  (Room 217-219, New Orleans, December 15, 2023, <a href="https://neurips.cc/Conferences/2023" target="_blank">Website</a>)
+  (Room 217-219, New Orleans, December 15, 2023, <a href="https://neurips.cc/virtual/2022/workshop/50015" target="_blank">Website</a>)
 </div>
 
 # Call for Papers
